@@ -1,0 +1,4 @@
+Cluster_Labels,Average Duration (Hours),Average Number of Customers Affected,Most Common City,Most Common Cause,Count
+0,3.69945866554763,379.6361728913135,Addis Ababa,Maintenance,2383
+1,9.300685518423306,369.96915167095113,Addis Ababa,Maintenance,2334
+2,6.43441570881226,981.8812260536398,Addis Ababa,Maintenance,1044
